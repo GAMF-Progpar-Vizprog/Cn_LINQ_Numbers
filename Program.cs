@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CnLINQ_Numbers
+namespace Cn_LINQ_Numbers
 {
 	/// <summary>
 	/// Three interesting years: 2010, 2011, 2012.
